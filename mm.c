@@ -14,7 +14,7 @@
  * (second-last bit), and allocation bit (last bit).
  *
  *   The following resourses have been used in this code the book "Computer Systems - A Programmer's Perspective" 
- * and online resourse from github user " mightydeveloper ".
+ * and online resourse from github user " mightydeveloper ". 
  */
 #include <stdio.h>
 #include <stdlib.h>
